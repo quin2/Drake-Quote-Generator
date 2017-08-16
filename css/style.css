@@ -1,0 +1,17 @@
+.creditText{
+  color: gray !important;
+}
+
+#getQuote{
+  width: 200px;
+  color: green;
+}
+
+#tweetLink{
+  color: #1DA1F2;
+}
+
+#creditText{
+  padding: 20px, 0px, 0px, 0px;
+}
+
